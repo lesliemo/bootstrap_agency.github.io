@@ -235,7 +235,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   text-align: center;
-  color: white;
+  color: #36454f;
 }
 header .intro-text {
   padding-top: 100px;
