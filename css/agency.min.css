@@ -71,15 +71,15 @@
 /* Force varying heights to simulate dynamic content */
 
 .card:first-child {
-  height: 485px;
+  height: 100%;
 }
 
 .card:nth-child(2) {
-  height: 200px;
+  height: 45%;
 }
 
 .card:nth-child(3) {
-  height: 265px;
+  height: 45%;
 }
 
 /* info cards SC ends */
