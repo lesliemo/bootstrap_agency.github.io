@@ -71,7 +71,7 @@
 /* Force varying heights to simulate dynamic content */
 
 .card:first-child {
-  height: 100%;
+  height: 600px;
 }
 
 .card:nth-child(2) {
