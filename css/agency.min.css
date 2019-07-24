@@ -71,14 +71,17 @@
 
 .card:first-child {
   height: 485px;
+    height: 100%;
 }
 
 .card:nth-child(2) {
-  height: 400px;
+  height: 200px;
+      height: 45%;
 }
 
 .card:nth-child(3) {
-  height: 465px;
+  height: 265px;
+      height: 100%;
 }
 
 /* info cards SC ends */
