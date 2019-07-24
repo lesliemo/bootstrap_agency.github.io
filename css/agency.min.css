@@ -70,7 +70,7 @@
 /* Force varying heights to simulate dynamic content */
 
 .card:first-child {
-  height: 285px;
+  height: 485px;
 }
 
 .card:nth-child(2) {
@@ -78,7 +78,7 @@
 }
 
 .card:nth-child(3) {
-  height: 265px;
+  height: 465px;
 }
 
 /* info cards SC ends */
