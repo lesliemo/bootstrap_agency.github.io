@@ -75,11 +75,11 @@
 }
 
 .card:nth-child(2) {
-   height: 800px;
+   height: 400px;
 }
 
 .card:nth-child(3) {
-   height: 465px;
+   height: 865px;
 }
 
 /* info cards SC ends */
