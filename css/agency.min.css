@@ -71,11 +71,11 @@
 /* Force varying heights to simulate dynamic content */
 
 .card:first-child {
-  height: 885px;
+  height: 485px;
 }
 
 .card:nth-child(2) {
-   height: 400px;
+   height: 800px;
 }
 
 .card:nth-child(3) {
